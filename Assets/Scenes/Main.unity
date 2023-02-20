@@ -560,7 +560,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   img: {fileID: 127563751}
   id: {fileID: 1363174006}
-  name: {fileID: 540685725}
+  cardName: {fileID: 540685725}
   specie: {fileID: 1525808263}
   index: 4
 --- !u!1 &173147137
@@ -1567,7 +1567,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   img: {fileID: 568901171}
   id: {fileID: 968088523}
-  name: {fileID: 1462293830}
+  cardName: {fileID: 1462293830}
   specie: {fileID: 1626312021}
   index: 1
 --- !u!1 &691331325
@@ -1982,7 +1982,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   img: {fileID: 799589323}
   id: {fileID: 739422768}
-  name: {fileID: 198728977}
+  cardName: {fileID: 198728977}
   specie: {fileID: 449522153}
   index: 0
 --- !u!1 &968088521
@@ -2316,7 +2316,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   img: {fileID: 1278956550}
   id: {fileID: 173147139}
-  name: {fileID: 1490259631}
+  cardName: {fileID: 1490259631}
   specie: {fileID: 691331327}
   index: 3
 --- !u!1 &1363174004
@@ -3464,10 +3464,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d2af8a6b1677324c9b2451f16296925, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deck: 0100000020000000660100004202000059020000
   charactersLoaded:
     m_PersistentCalls:
       m_Calls: []
+  deck: 0100000020000000660100004202000059020000
+  field: {fileID: 1578187445}
 --- !u!1 &2038739111
 GameObject:
   m_ObjectHideFlags: 0
@@ -3865,6 +3866,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   img: {fileID: 2115838999}
   id: {fileID: 121448715}
-  name: {fileID: 500516032}
+  cardName: {fileID: 500516032}
   specie: {fileID: 1496784853}
   index: 2
